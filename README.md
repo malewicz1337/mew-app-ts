@@ -27,7 +27,7 @@ Before using the Mew App, you need to configure Firebase. Follow these steps:
 ## Installation
 To run the Mew App:
 
-1. Clone the repository to your local machine.
+1. Clone the repository.
 
 2. Install the required dependencies:
 
